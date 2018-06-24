@@ -100,12 +100,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>Internal Release</name>
-			<url>http://192.168.1.90:8081/repository/eureka-releases/</url>
+			<url>http://192.168.1.90:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>Internal Release</name>
-			<url>http://192.168.1.90:8081/repository/eureka-snapshots/</url>
+			<url>http://192.168.1.90:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>	
 
